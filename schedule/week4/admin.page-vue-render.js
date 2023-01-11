@@ -17,6 +17,6 @@ with(this){return _c('h1',{attrs:{"id":"week-4-fri-jan-27th-admin"}},[_c('span',
 with(this){return _c('div',[_c('ul',[_c('li',[_v("We will be adding you all to tic4002-AY2223S2 github org. "),_c('strong',[_v("Please accept the invitation sent by GitHub")]),_v(" as you need to be a member of the org for some of the future module activities. If you did not receive the invitation link, you can use the link "),_c('a',{attrs:{"href":"https://github.com/orgs/nus-tic4002-AY2223S2/invitation"}},[_v("https://github.com/orgs/nus-tic4002-AY2223S2/invitation")]),_v(".")]),_v(" "),_c('li',[_v("Worth "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("2")]),_v(" participation points")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 6 Jan 2023, 17:32:42 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 11 Jan 2023, 14:29:35 GMT+8]")])])])}
 }];
   
