@@ -1,0 +1,22 @@
+2023-01-25T12:44:26.029Z - info: Website generation started at 8:44:19 pm
+2023-01-25T12:44:40.680Z - info: Building assets...
+2023-01-25T12:44:48.922Z - info: Assets built
+2023-01-25T12:44:48.922Z - info: Generating pages...
+2023-01-25T12:45:03.663Z - debug:  
+2023-01-25T12:45:03.663Z - debug:  
+2023-01-25T12:45:03.663Z - debug:  
+2023-01-25T12:45:03.664Z - debug:  
+2023-01-25T12:45:03.664Z - debug:  
+2023-01-25T12:45:03.665Z - debug:  
+2023-01-25T12:45:03.665Z - debug:  
+2023-01-25T12:45:03.692Z - debug:  
+2023-01-25T12:45:03.707Z - debug:  
+2023-01-25T12:45:04.031Z - debug:  
+2023-01-25T12:45:04.040Z - debug:  
+2023-01-25T12:45:07.366Z - debug:  
+2023-01-25T12:45:39.250Z - debug:  
+2023-01-25T12:46:37.517Z - info: Pages built
+2023-01-25T12:46:38.720Z - info: Site data built
+2023-01-25T12:46:38.720Z - info: Website generation complete! Total build time: 139.378s
+2023-01-25T12:46:38.720Z - info: Build success!
+2023-01-25T12:48:57.875Z - info: The website has been deployed at: https://nus-tic2002-ay2223s2.github.io/website
