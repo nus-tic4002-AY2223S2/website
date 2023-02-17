@@ -1,0 +1,62 @@
+2023-02-13T16:20:39.669Z - info: [12:20:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\studentData-fragment.md
+2023-02-13T16:20:39.678Z - info: Synchronizing opened pages list before reload
+2023-02-13T16:20:39.678Z - info: Current opened pages, from most-to-least recent:
+2023-02-13T16:20:39.678Z - info: 1. admin/teamList
+2023-02-13T16:20:40.684Z - info: Rebuilding 1 pages
+2023-02-13T16:20:42.524Z - info: Site data built
+2023-02-13T16:20:42.524Z - info: Pages rebuilt
+2023-02-13T16:20:42.524Z - info: Website regeneration complete! Total build time: 1.842s
+2023-02-13T17:33:32.927Z - info: Website generation started at 1:33:30 am
+2023-02-13T17:33:46.953Z - info: Building assets...
+2023-02-13T17:33:55.918Z - info: Assets built
+2023-02-13T17:33:55.919Z - info: Generating pages...
+2023-02-13T17:34:11.784Z - debug:  
+2023-02-13T17:34:16.103Z - debug:  
+2023-02-13T17:34:16.191Z - debug:  
+2023-02-13T17:34:16.191Z - debug:  
+2023-02-13T17:34:16.192Z - debug:  
+2023-02-13T17:34:16.192Z - debug:  
+2023-02-13T17:34:16.193Z - debug:  
+2023-02-13T17:34:16.193Z - debug:  
+2023-02-13T17:34:16.193Z - debug:  
+2023-02-13T17:34:16.194Z - debug:  
+2023-02-13T17:34:16.194Z - debug:  
+2023-02-13T17:34:16.194Z - debug:  
+2023-02-13T17:34:16.751Z - debug:  
+2023-02-13T17:36:31.972Z - debug:  
+2023-02-13T17:36:47.080Z - debug:  
+2023-02-13T17:36:47.255Z - debug:  
+2023-02-13T17:36:55.741Z - info: Pages built
+2023-02-13T17:36:56.803Z - info: Site data built
+2023-02-13T17:36:56.803Z - info: Website generation complete! Total build time: 206.195s
+2023-02-13T17:36:56.803Z - info: Build success!
+2023-02-13T17:38:47.043Z - info: The website has been deployed at: https://nus-cs2103-ay2223s2.github.io/website
+2023-02-14T12:23:26.195Z - info: Website generation started at 8:23:21 pm
+2023-02-14T12:23:35.586Z - info: Building assets...
+2023-02-14T12:23:43.077Z - info: Assets built
+2023-02-14T12:23:43.079Z - info: Generating pages...
+2023-02-14T12:23:47.658Z - warn: panel has a header slot, 'header' attribute has no effect.
+2023-02-14T12:23:55.809Z - debug:  
+2023-02-14T12:23:55.810Z - debug:  
+2023-02-14T12:23:55.811Z - debug:  
+2023-02-14T12:23:55.811Z - debug:  
+2023-02-14T12:23:55.991Z - debug:  
+2023-02-14T12:23:56.931Z - debug:  
+2023-02-14T12:23:56.931Z - debug:  
+2023-02-14T12:23:56.932Z - debug:  
+2023-02-14T12:24:02.024Z - debug:  
+2023-02-14T12:24:02.024Z - debug:  
+2023-02-14T12:24:03.684Z - debug:  
+2023-02-14T12:24:06.590Z - warn: panel has a header slot, 'header' attribute has no effect.
+2023-02-14T12:24:06.698Z - warn: panel has a header slot, 'header' attribute has no effect.
+2023-02-14T12:24:07.270Z - warn: panel has a header slot, 'header' attribute has no effect.
+2023-02-14T12:24:18.374Z - debug:  
+2023-02-14T12:24:35.866Z - debug:  
+2023-02-14T12:24:52.080Z - warn: panel has a header slot, 'header' attribute has no effect.
+2023-02-14T12:24:57.048Z - warn: panel has a header slot, 'header' attribute has no effect.
+2023-02-14T12:25:06.035Z - warn: panel has a header slot, 'header' attribute has no effect.
+2023-02-14T12:25:15.073Z - info: Pages built
+2023-02-14T12:25:16.286Z - info: Site data built
+2023-02-14T12:25:16.287Z - info: Website generation complete! Total build time: 114.638s
+2023-02-14T12:25:16.287Z - info: Build success!
+2023-02-14T12:27:37.127Z - info: The website has been deployed at: https://nus-tee3201.github.io/2023
