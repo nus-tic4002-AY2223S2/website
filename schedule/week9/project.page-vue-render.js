@@ -44,6 +44,6 @@ with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",att
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Update the Developer Guide")]),_v(" as follows:\n"),_c('ul',[_c('li',[_c('mark',[_v("Each member should describe the implementation of at least one enhancement she has added")]),_v(" (or planning to add). "),_c('br'),_v("\nExpected length: 1+ page per person")]),_v(" "),_c('li',[_v("The description can contain things such as,\n"),_c('ul',[_c('li',[_v("How the feature is implemented (or is going to be implemented).")]),_v(" "),_c('li',[_v("Why it is implemented that way.")]),_v(" "),_c('li',[_v("Alternatives considered.")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(", generated on Fri, 10 Mar 2023, 23:07:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(", generated on Thu, 16 Mar 2023, 23:56:40 GMT+8]")])])])}
 }];
   
