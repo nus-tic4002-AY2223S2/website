@@ -1,0 +1,55 @@
+2023-05-01T13:08:19.210Z - info: Website generation (lazy) started at 9:08:17 pm
+2023-05-01T13:08:31.208Z - info: Building assets...
+2023-05-01T13:08:40.327Z - info: Assets built
+2023-05-01T13:08:40.328Z - info: Generating landing page...
+2023-05-01T13:08:41.620Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-05-01T13:08:42.670Z - info: Site data built
+2023-05-01T13:08:42.670Z - info: Website generation (lazy) complete! Total build time: 25.441s
+2023-05-01T13:08:43.583Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-05-01T13:08:43.583Z - info: Press CTRL+C to stop ...
+2023-05-01T13:08:57.747Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2023-05-01T13:09:04.283Z - info: Site data built
+2023-05-01T13:09:04.284Z - info: Lazy website regeneration complete! Total build time: 6.537s
+2023-05-01T13:09:09.912Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\cppToJava as some of its dependencies were changed since the last visit
+2023-05-01T13:09:14.699Z - info: Site data built
+2023-05-01T13:09:14.700Z - info: Lazy website regeneration complete! Total build time: 4.788s
+2023-05-01T13:10:40.704Z - info: [9:10:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\dataTypes\operators\text.md
+2023-05-01T13:10:40.705Z - info: Synchronizing opened pages list before reload
+2023-05-01T13:10:40.705Z - info: Current opened pages, from most-to-least recent:
+2023-05-01T13:10:40.706Z - info: 1. se-book-adapted/chapters/cppToJava
+2023-05-01T13:10:41.729Z - info: Rebuilding 1 pages
+2023-05-01T13:10:44.214Z - info: Site data built
+2023-05-01T13:10:44.214Z - info: Pages rebuilt
+2023-05-01T13:10:44.215Z - info: Website regeneration complete! Total build time: 2.486s
+2023-05-01T13:11:13.027Z - info: [9:11:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\dataTypes\operators\text.md
+2023-05-01T13:11:13.029Z - info: Synchronizing opened pages list before reload
+2023-05-01T13:11:13.031Z - info: Current opened pages, from most-to-least recent:
+2023-05-01T13:11:13.032Z - info: 1. se-book-adapted/chapters/cppToJava
+2023-05-01T13:11:14.042Z - info: Rebuilding 1 pages
+2023-05-01T13:11:16.970Z - info: Site data built
+2023-05-01T13:11:16.970Z - info: Pages rebuilt
+2023-05-01T13:11:16.970Z - info: Website regeneration complete! Total build time: 2.929s
+2023-05-01T13:11:28.644Z - info: [9:11:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\dataTypes\operators\text.md
+2023-05-01T13:11:28.644Z - info: Synchronizing opened pages list before reload
+2023-05-01T13:11:28.645Z - info: Current opened pages, from most-to-least recent:
+2023-05-01T13:11:28.645Z - info: 1. se-book-adapted/chapters/cppToJava
+2023-05-01T13:11:29.659Z - info: Rebuilding 1 pages
+2023-05-01T13:11:32.140Z - info: Site data built
+2023-05-01T13:11:32.140Z - info: Pages rebuilt
+2023-05-01T13:11:32.141Z - info: Website regeneration complete! Total build time: 2.484s
+2023-05-01T13:12:02.794Z - info: [9:12:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\dataTypes\operators\text.md
+2023-05-01T13:12:02.795Z - info: Synchronizing opened pages list before reload
+2023-05-01T13:12:02.796Z - info: Current opened pages, from most-to-least recent:
+2023-05-01T13:12:02.797Z - info: 1. se-book-adapted/chapters/cppToJava
+2023-05-01T13:12:03.814Z - info: Rebuilding 1 pages
+2023-05-01T13:12:06.559Z - info: Site data built
+2023-05-01T13:12:06.559Z - info: Pages rebuilt
+2023-05-01T13:12:06.560Z - info: Website regeneration complete! Total build time: 2.747s
+2023-05-01T13:14:44.479Z - info: [9:14:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\dataTypes\operators\text.md
+2023-05-01T13:14:44.479Z - info: Synchronizing opened pages list before reload
+2023-05-01T13:14:44.480Z - info: Current opened pages, from most-to-least recent:
+2023-05-01T13:14:44.480Z - info: 1. se-book-adapted/chapters/cppToJava
+2023-05-01T13:14:45.495Z - info: Rebuilding 1 pages
+2023-05-01T13:14:48.177Z - info: Site data built
+2023-05-01T13:14:48.178Z - info: Pages rebuilt
+2023-05-01T13:14:48.178Z - info: Website regeneration complete! Total build time: 2.685s

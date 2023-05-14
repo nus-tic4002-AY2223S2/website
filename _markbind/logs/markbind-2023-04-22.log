@@ -1,0 +1,46 @@
+2023-04-22T06:15:18.812Z - info: Website generation (lazy) started at 2:15:12 pm
+2023-04-22T06:15:32.987Z - info: Building assets...
+2023-04-22T06:15:42.169Z - info: Assets built
+2023-04-22T06:15:42.170Z - info: Generating landing page...
+2023-04-22T06:15:43.072Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-04-22T06:15:44.363Z - info: Site data built
+2023-04-22T06:15:44.363Z - info: Website generation (lazy) complete! Total build time: 31.43s
+2023-04-22T06:15:45.275Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-04-22T06:15:45.276Z - info: Press CTRL+C to stop ...
+2023-04-22T06:16:52.131Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2023-04-22T06:16:55.039Z - info: Site data built
+2023-04-22T06:16:55.040Z - info: Lazy website regeneration complete! Total build time: 2.911s
+2023-04-22T06:19:55.369Z - info: [2:19:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tee3201-fragment.md
+2023-04-22T06:19:55.370Z - info: Synchronizing opened pages list before reload
+2023-04-22T06:19:55.370Z - info: Current opened pages, from most-to-least recent:
+2023-04-22T06:19:55.371Z - info: 1. admin/index
+2023-04-22T06:19:56.390Z - info: Assets built
+2023-04-22T06:20:34.245Z - info: [2:20:34 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2023-04-22T06:20:34.247Z - info: Synchronizing opened pages list before reload
+2023-04-22T06:20:34.248Z - info: Current opened pages, from most-to-least recent:
+2023-04-22T06:20:34.249Z - info: 1. admin/index
+2023-04-22T06:20:35.265Z - info: Rebuilding 1 pages
+2023-04-22T06:20:37.363Z - info: Site data built
+2023-04-22T06:20:37.364Z - info: Pages rebuilt
+2023-04-22T06:20:37.364Z - info: Website regeneration complete! Total build time: 2.1s
+2023-04-22T06:20:48.432Z - info: [2:20:48 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2023-04-22T06:20:48.433Z - info: Synchronizing opened pages list before reload
+2023-04-22T06:20:48.434Z - info: Current opened pages, from most-to-least recent:
+2023-04-22T06:20:48.434Z - info: 1. admin/index
+2023-04-22T06:20:49.446Z - info: Rebuilding 1 pages
+2023-04-22T06:20:50.868Z - info: Site data built
+2023-04-22T06:20:50.869Z - info: Pages rebuilt
+2023-04-22T06:20:50.869Z - info: Website regeneration complete! Total build time: 1.424s
+2023-04-22T06:21:26.671Z - info: [2:21:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2023-04-22T06:21:26.674Z - info: Synchronizing opened pages list before reload
+2023-04-22T06:21:26.675Z - info: Current opened pages, from most-to-least recent:
+2023-04-22T06:21:26.676Z - info: 1. admin/index
+2023-04-22T06:21:27.695Z - info: Rebuilding 1 pages
+2023-04-22T06:21:29.542Z - info: Site data built
+2023-04-22T06:21:29.542Z - info: Pages rebuilt
+2023-04-22T06:21:29.543Z - info: Website regeneration complete! Total build time: 1.849s
+2023-04-22T06:21:54.278Z - info: [2:21:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tee3201-fragment.md
+2023-04-22T06:21:54.279Z - info: Synchronizing opened pages list before reload
+2023-04-22T06:21:54.281Z - info: Current opened pages, from most-to-least recent:
+2023-04-22T06:21:54.282Z - info: 1. admin/index
+2023-04-22T06:21:55.293Z - info: Assets built
